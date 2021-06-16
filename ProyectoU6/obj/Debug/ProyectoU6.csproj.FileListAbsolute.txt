@@ -1,0 +1,7 @@
+C:\Users\Alan\OOP\ProyectoU6\ProyectoU6\bin\Debug\ProyectoU6.exe.config
+C:\Users\Alan\OOP\ProyectoU6\ProyectoU6\bin\Debug\ProyectoU6.exe
+C:\Users\Alan\OOP\ProyectoU6\ProyectoU6\bin\Debug\ProyectoU6.pdb
+C:\Users\Alan\OOP\ProyectoU6\ProyectoU6\obj\Debug\ProyectoU6.csproj.AssemblyReference.cache
+C:\Users\Alan\OOP\ProyectoU6\ProyectoU6\obj\Debug\ProyectoU6.csproj.CoreCompileInputs.cache
+C:\Users\Alan\OOP\ProyectoU6\ProyectoU6\obj\Debug\ProyectoU6.exe
+C:\Users\Alan\OOP\ProyectoU6\ProyectoU6\obj\Debug\ProyectoU6.pdb
